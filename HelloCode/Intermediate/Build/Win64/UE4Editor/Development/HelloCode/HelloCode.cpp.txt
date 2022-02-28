@@ -1,0 +1,2 @@
+C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Intermediate\Build\Win64\UE4Editor\Development\HelloCode\Definitions.HelloCode.h
+C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Source\HelloCode\HelloCode.h

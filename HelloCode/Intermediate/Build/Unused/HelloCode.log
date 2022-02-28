@@ -1,0 +1,11 @@
+﻿  Building HelloCodeEditor...
+  Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] HelloSphere.cpp
+    [2/4] UE4Editor-HelloCode.lib
+       Creating library C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Intermediate\Build\Win64\UE4Editor\Development\HelloCode\UE4Editor-HelloCode.lib and object C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Intermediate\Build\Win64\UE4Editor\Development\HelloCode\UE4Editor-HelloCode.exp
+    [3/4] UE4Editor-HelloCode.dll
+       Creating library C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Intermediate\Build\Win64\UE4Editor\Development\HelloCode\UE4Editor-HelloCode.suppressed.lib and object C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Intermediate\Build\Win64\UE4Editor\Development\HelloCode\UE4Editor-HelloCode.suppressed.exp
+    [4/4] HelloCodeEditor.target
+  Total time in Parallel executor: 2.15 seconds
+  Total execution time: 2.67 seconds

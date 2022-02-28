@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HelloCode",
+			"Path": "C:\\Users\\Temp Admin\\Documents\\Unreal Projects\\HelloCode\\Source\\HelloCode.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HelloCodeEditor",
+			"Path": "C:\\Users\\Temp Admin\\Documents\\Unreal Projects\\HelloCode\\Source\\HelloCodeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

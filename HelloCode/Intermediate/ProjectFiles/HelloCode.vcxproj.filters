@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HelloCode.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{693C64CE-37D3-4223-A599-416394EBE78C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HelloCode.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HelloCodeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E47809E3-206E-4A7A-A466-8E3F61B59CEE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HelloCode">
+      <UniqueIdentifier>{0E24CD8D-C2A2-446B-8AD5-A039FF4A0786}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HelloCode\HelloCode.Build.cs">
+      <Filter>Source\HelloCode</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HelloCode\HelloCode.cpp">
+      <Filter>Source\HelloCode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HelloCode\HelloCode.h">
+      <Filter>Source\HelloCode</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HelloCode\HelloCodeGameModeBase.cpp">
+      <Filter>Source\HelloCode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HelloCode\HelloCodeGameModeBase.h">
+      <Filter>Source\HelloCode</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HelloCode\HelloSphere.cpp">
+      <Filter>Source\HelloCode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HelloCode\HelloSphere.h">
+      <Filter>Source\HelloCode</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

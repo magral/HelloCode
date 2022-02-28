@@ -1,0 +1,7 @@
+C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Intermediate\Build\Win64\UE4Editor\Development\HelloCode\Definitions.HelloCode.h
+C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Source\HelloCode\HelloCodeGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Temp Admin\Documents\Unreal Projects\HelloCode\Intermediate\Build\Win64\UE4Editor\Inc\HelloCode\HelloCodeGameModeBase.generated.h
